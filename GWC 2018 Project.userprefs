@@ -1,8 +1,9 @@
-﻿<Properties StartupItem="GWC 2018 Project.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Can1Controller.cs">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NarwhalController.cs">
     <Files>
-      <File FileName="Assets\Scripts\Can1Controller.cs" Line="8" Column="5" />
+      <File FileName="Assets\Scripts\Can1Controller.cs" Line="13" Column="3" />
+      <File FileName="Assets\Scripts\NarwhalController.cs" Line="12" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

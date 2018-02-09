@@ -2,15 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Can1Controller : MonoBehaviour {
+public class NarwhalController : MonoBehaviour {
 
-	public Animation Can1;
-	public Animator Can1Animator;
+	public Animation Narwhal;
+	public Animator NarwhalAnimator;
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log ("We are in start!");
-		Can1Animator.Play("Can1Animation");
+		NarwhalAnimator.Play("Can1Animation");
 	}
 	
 	// Update is called once per frame
